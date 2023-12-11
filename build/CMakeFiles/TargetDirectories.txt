@@ -1,0 +1,13 @@
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/CMakeFiles/edit_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/CMakeFiles/rebuild_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/CMakeFiles/freertos_kernel.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/CMakeFiles/edit_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/CMakeFiles/rebuild_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/include/CMakeFiles/edit_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/include/CMakeFiles/rebuild_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/portable/CMakeFiles/freertos_kernel_port.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/portable/CMakeFiles/edit_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/src/portable/CMakeFiles/rebuild_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/ipc_app/CMakeFiles/ipc_app.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/ipc_app/CMakeFiles/edit_cache.dir
+S:/M.ScInformationTechnology-ES/Semester 1/05_RealTimeConceptsforEmbeddedSystems/intertask_communication/build/ipc_app/CMakeFiles/rebuild_cache.dir
